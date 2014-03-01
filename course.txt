@@ -1,0 +1,4 @@
+banane * 3
+pomme  * 4
+date   * 10
+
