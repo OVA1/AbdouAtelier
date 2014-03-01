@@ -1,4 +1,5 @@
 banane * 3
+Orange * 5
 pomme  * 4
 date   * 10
 
